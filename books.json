@@ -1,0 +1,5 @@
+db.books.insert({" author": "Kristina Chodorow", "title": "Scaling MongoDB", "published": new Date(" 03/ 02/ 2011")});
+db.books.insert({" author": "Stoyan Stefanov", "title": "JavaScript Patterns", "published": new Date(" 09/ 28/ 2010")});
+db.books.insert({" author": "Stoyan Stefanov", "title": "JavaScript for PHP Developers", "published": new Date(" 10/ 22/ 2012")});
+db.books.insert({" author": "Stoyan Stefanov", "title": "Web Performance Daybook", "published": new Date(" 06/ 27/ 2012")});
+db.books.insert({" author": "Jamie Munro", "title": "20 Recipes for Programming MVC 3", "published": new Date(" 10/ 11/ 2011")});
